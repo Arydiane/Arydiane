@@ -9,4 +9,6 @@
 Sou formada em Licenciatura em Computação pela Universidade Federal Fluminense - UFF e Técnica em informática pela FAETEC/RJ.
 Atualmente estou estudando e desenvolvendo projetos web mais precisamente no Front-End, de modo a ampliar meus conhecimentos e assim aprimorar ainda mais minhas habilidades e migrar para esta carreira.
 
+Linguagens e tecnologias estudadas: HTML, CSS, Javascript e React. 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arydiane&theme=default&show_icons=true)](https://github.com/Arydiane/github-readme-stats)
