@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arydianejardim@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:arydianejardim@hotmail.com)
 
-Sou formada em Licenciatura em Computação pela Universidade Federal Fluminense - UFF e Técnica em informática pela FAETEC/RJ.
+Sou formada em Licenciatura em Computação pela Universidade Federal Fluminense - UFF.
 Atualmente estou estudando e desenvolvendo projetos web mais precisamente no Front-End, de modo a ampliar meus conhecimentos e assim aprimorar ainda mais minhas habilidades e migrar para esta carreira.
 
 Linguagens e tecnologias estudadas: HTML, CSS, Javascript e React. 
